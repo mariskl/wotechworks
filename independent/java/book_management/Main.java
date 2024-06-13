@@ -9,7 +9,7 @@ public class Main {
 
         library.addBook(new Book("Lord of The Rings"));
         library.addBook(new Book("Game of Thrones"));
-        library.addBook(new Book("Aabits"));
+        library.addBook(new Book("Piibel"));
 
         Scanner scanner = new Scanner(System.in);
 
